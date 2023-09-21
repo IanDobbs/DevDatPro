@@ -15,7 +15,7 @@ knitr::opts_chunk$set(widgetframe_widgets_dir = 'widgets' )
 ```
 
 ```{r, echo=FALSE}
-logo <-"C:/Users/44772/Documents/Rstudio_projects/datasciencecoursera/DDP/Rlogo.jpg"
+logo <-"C:/Users/44772/Documents/Rstudio_projects/datasciencecoursera/DevDatPro/Rlogo.jpg"
 ```
 
 ## Example interactive scatter plot
